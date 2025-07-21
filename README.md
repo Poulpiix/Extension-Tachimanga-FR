@@ -1,4 +1,4 @@
-# Keiyoushi Extensions
+# Keiyoushi / Tachimanga Extensions (only up-to-date French sources)
 
 ### Please give the repo a :star:
 
