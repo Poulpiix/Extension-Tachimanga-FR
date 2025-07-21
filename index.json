@@ -51,23 +51,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Japscan",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.49.apk",
-    "lang": "fr",
-    "code": 49,
-    "version": "1.4.49",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Japscan",
-        "lang": "fr",
-        "id": "11",
-        "baseUrl": "https://www.japscan.lol"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Lelmanga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelmanga",
     "apk": "tachiyomi-fr.lelmanga-v1.4.31.apk",
@@ -81,23 +64,6 @@
         "lang": "fr",
         "id": "8647761747185981431",
         "baseUrl": "https://www.lelmanga.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Lelscan-VF",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.lelscanvf",
-    "apk": "tachiyomi-fr.lelscanvf-v1.4.14.apk",
-    "lang": "fr",
-    "code": 14,
-    "version": "1.4.14",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Lelscan-VF",
-        "lang": "fr",
-        "id": "4874205281198767614",
-        "baseUrl": "https://lelscanfr.com"
       }
     ]
   },
