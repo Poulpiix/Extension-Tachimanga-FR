@@ -1,24 +1,12 @@
-# Keiyoushi / Tachimanga Extensions (only up-to-date French sources)
+# Extensions sources de scan pour Mangayomi / Keiyoushi / Tachimanga (que des sources françaises et à jour)
 
-### Please give the repo a :star:
+C’est une reprise du repo de base de Keiyoushi. Lassé d’avoir des sources françaises non fonctionnelles ou hors ligne suite à la fermeture des dernières, j’ai donc repris le repo afin de modifier et mettre à jour ce qui devait l’être, tout en retirant les sources étrangères pour le dédier exclusivement aux francophones.### Please give the repo a :star:
 
-| Build | Need Help? |
-|-------|---------|
-| [![CI](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml/badge.svg)](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
+### Installation
+Ouvrez votre application Tachimanga, Keiyoushi, Tachiyomi (pour les chanceux l'ayant encore) etc..
+Recherchez dans les options de l'application un onglet "Sources" ou "Extensions"
+Copiez-collez l'URL suivante : soon
 
-## Usage
-**If you are new to repository/extensions, please read the [Keiyoushi Getting Started guide](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) first.**
-
-* You can add our repo by visiting the [Keiyoushi Website](https://keiyoushi.github.io/add-repo)
-* Otherwise, copy & paste the following URL: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
 
 ### Source Code
-
 https://github.com/keiyoushi/extensions-source
-
-### Report issues
-
-https://github.com/keiyoushi/extensions-source/issues/new/choose
-
-### Others
-If you're not using any of the above fork then manually download and update extensions from [the listing page](https://keiyoushi.github.io/extensions/)
