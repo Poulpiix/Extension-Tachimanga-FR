@@ -9,4 +9,4 @@ C’est une reprise du repo de base de Keiyoushi. Lassé d’avoir des sources f
 
 
 ### Source Code
-https://github.com/keiyoushi/extensions-source
+- https://github.com/keiyoushi/extensions-source
