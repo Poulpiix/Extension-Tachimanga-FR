@@ -142,5 +142,39 @@
         "baseUrl": "https://www.mangakawaii.io"
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: Manga-Scantrad",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.mangascantrad",
+    "apk": "tachiyomi-fr.mangascantrad-v1.4.48.apk",
+    "lang": "fr",
+    "code": 48,
+    "version": "1.4.48",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Manga-Scantrad",
+        "lang": "fr",
+        "id": "540252682818453285",
+        "baseUrl": "https://manga-scantrad.io"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mangas-Origines.fr",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.mangasoriginesfr",
+    "apk": "tachiyomi-fr.mangasoriginesfr-v1.4.48.apk",
+    "lang": "fr",
+    "code": 48,
+    "version": "1.4.48",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Mangas-Origines.fr",
+        "lang": "fr",
+        "id": "4803238581797687746",
+        "baseUrl": "https://mangas-origines.fr"
+      }
+    ]
   }
 ]
