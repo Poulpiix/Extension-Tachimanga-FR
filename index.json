@@ -2,10 +2,10 @@
     {
         "name": "Tachiyomi: AnimeSama",
         "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
-        "apk": "tachiyomi-fr.animesama-v1.6.0.apk",
+        "apk": "tachiyomi-fr.animesama-v1.6.1.apk",
         "lang": "fr",
-        "code": 106000,
-        "version": "1.6.0",
+        "code": 106001,
+        "version": "1.6.1",
         "nsfw": 0,
         "sources": [
             {
@@ -19,10 +19,10 @@
     {
         "name": "Tachiyomi: Scan-Manga",
         "pkg": "eu.kanade.tachiyomi.extension.fr.scanmanga",
-        "apk": "tachiyomi-fr.scanmanga-v1.4.23.apk",
+        "apk": "tachiyomi-fr.scanmanga-v1.6.0.apk",
         "lang": "fr",
-        "code": 104023,
-        "version": "1.4.23",
+        "code": 106000,
+        "version": "1.6.0",
         "nsfw": 1,
         "sources": [
             {
@@ -168,6 +168,23 @@
                 "lang": "fr",
                 "id": "4803238581797687746",
                 "baseUrl": "https://mangas-origines.fr"
+            }
+        ]
+    },
+    {
+        "name": "Tachiyomi: Aniverse",
+        "pkg": "eu.kanade.tachiyomi.extension.fr.aniverse",
+        "apk": "tachiyomi-fr.aniverse-v1.6.1.apk",
+        "lang": "fr",
+        "code": 106001,
+        "version": "1.6.1",
+        "nsfw": 1,
+        "sources": [
+            {
+                "name": "Aniverse",
+                "lang": "fr",
+                "id": "4821794959228633650",
+                "baseUrl": "https://aniverse.fr"
             }
         ]
     }
